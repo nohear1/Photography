@@ -1,0 +1,56 @@
+#photoHeader {
+	height:70vh;
+	max-height:768px;
+	background-image: url("https://c2.staticflickr.com/6/5500/coverphoto/43980492@N08_h.jpg?1382841151#43980492@N08)");
+	background-position:50% 50%;
+	background-size:cover;
+/*	width:100%;
+*/
+}
+
+
+body {
+	background-color:black;
+}
+
+.nav {
+	color:white;
+	display:inline-block;
+	margin:20px;
+	text-align:center;
+
+}
+
+h1 {
+	color:white;
+	text-align:left;
+	font-size:16px;
+}
+
+table {
+	width:100%;
+	text-align:center;
+}
+
+span {
+	font-size:14px;
+}
+
+a {
+	text-decoration:none;
+	color:white;
+}
+
+a:hover {
+	text-decoration:underline;
+	}
+
+/*@media (max-width: 1000px) {
+ 	a {
+ 		font-size:10px;
+ 	}
+
+ 	table {
+ 		width:90%;
+ 	}
+}*/

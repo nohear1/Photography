@@ -1,0 +1,26 @@
+body {
+	background-color:black;
+}
+
+h1 {
+	color:white;
+}
+
+.modelImage {
+	height:200px;
+	width:200px;
+}
+
+.modelBio {
+	width:750px;
+	float:right;
+	margin-top:10px;
+	margin-right:250px;
+	color:white;
+}
+
+.modelProfile {
+	height:250px;
+	margin-top:10px;
+	background-color:black;
+}

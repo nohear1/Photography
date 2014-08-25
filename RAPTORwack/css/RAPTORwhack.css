@@ -1,0 +1,167 @@
+<style type="text/css">
+<!--
+a:active { text-decoration: underline}
+a:link { text-decoration: none}
+a:visited { text-decoration: none}
+a:hover { text-decoration: underline}
+-->
+</style>
+
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Times New Roman, Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+.links {
+	font-family: Times New Roman, Times, serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+.address {
+	font-family: Times New Roman, Times, serif;
+	font-size: 12px;
+	font-weight: normal;
+	padding-top: 5px;
+}
+.caption {
+	font-family: Times New Roman, Times, serif;
+	font-size: 10px;
+	font-weight: normal;
+}
+.logotext {
+	font-family: Times New Roman, Times, serif;
+	font-size: 24px;
+	font-weight: normal;
+}
+.text {
+	font-family: Times New Roman, Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+}
+-->
+</style>
+
+
+<style type="text/css" rel="stylesheet">
+<!--
+
+.toplinks {
+	width: 100%;
+padding: 2px 0;
+margin: 4;
+text-align: left; /*set value to "left", "center", or "right"*/
+}
+.toplinks a:link, .toplinks a:visited {   
+ 	color: #8C8C8C;
+	padding-top: 2px;
+	padding-right: 6px;
+	padding-bottom: 2px;
+	padding-left: 6px;
+ text-decoration: none;
+}
+.toplinks a:hover {
+ color: #5E5E5E;
+ background-color: #FFFFFF;
+}
+
+.toplinks-portfolio {
+	width: 100%;
+padding: 2px 0;
+margin: 4;
+text-align: left; /*set value to "left", "center", or "right"*/
+}
+.toplinks-portfolio a:link, .toplinks-portfolio a:visited {   
+ 	color: #8C8C8C;
+	padding-top: 2px;
+	padding-right: 6px;
+	padding-bottom: 2px;
+	padding-left: 6px;
+ text-decoration: none;
+}
+.toplinks-portfolio a:hover {
+color: ;
+background: #FFFFFF;
+}
+
+	.chromestyle{
+	font-family: Times New Roman, Times, serif;
+	font-size: 12px;
+	font-weight: normal;
+	width: 100%;
+}
+
+.chromestyle ul{
+width: 100%;
+padding: 0px 0;
+margin: 4;
+text-align: left; /*set value to "left", "center", or "right"*/
+}
+
+.chromestyle ul li{
+display: inline;
+}
+
+.chromestyle ul li a{
+color: #8C8C8C;
+padding: 4px 2px;
+margin: 0;
+text-decoration: none;
+}
+
+
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+position:absolute;
+top: 0;
+border: 1px solid #BFBFBF; /*THEME CHANGE HERE*/
+border-bottom-width: 0;
+font-weight: normal;
+font-family: Times New Roman, Times, serif;
+	font-size: 12px;
+	
+line-height:22px;
+z-index:100;
+background-color: #FFFFFF;
+width: 220px;
+visibility: hidden;
+}
+
+.dropmenudiv a{
+width: auto;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #BFBFBF; /*THEME CHANGE HERE*/
+padding: 2px 0;
+text-decoration: none;
+font-weight: normal;
+color: #8C8C8C;
+background: #FFFFFF;
+}
+
+* html .dropmenudiv a{ /*IE only hack*/
+width: 100%;
+}
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+text-decoration: none;
+font-weight: normal;
+color: #5E5E5E;
+background: ;
+}
+-->
+</style>
+
+
+#coverImage {
+	height:800px;
+	width:800px;
+}
